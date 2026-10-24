@@ -1,6 +1,0 @@
-{
-  "name": "Aether Browser",
-  "description": "Premium Android browser with Safari-inspired Liquid Glass design, Jetpack Compose Material 3 architecture, and refined micro-interactions.",
-  "requestFramePermissions": [],
-  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
-}
